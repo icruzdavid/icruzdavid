@@ -1,6 +1,22 @@
-### Olá! Eu sou o David Cruz! 
+### Olá! Eu sou o David Cruz, tenho 23 anos!  |||  Hello, I'm David Cruz, I'm 23 years old.
 
+<div class="header">
+       <style>.paragrafo{color:khaki;
+       }</style>
+<p class="paragrafo"><b>Sou Técnico em TI👨‍💻</b></p>
 
+____I am a technical professional in information technology.
+
+<p class="paragrafo"><b>Estou cursando um treinamento para me tornar um dev full stack na https://www.impacta.com.br.</b></p>
+
+_____I'm participating in training to become a full-stack developer at https://www.impacta.com.br/
+
+<p class="paragrafo"><b>Amo Ficção Cientifica e Tecnologia 😍 _ [Interestelar (36:15 até 37:20)</b></p>
+
+____I love science fiction, nature, technology and programming.
+_______________________________________________________________________
+Below, there are links to my social networks if you want to contact me
+</div>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icruzdavid/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/icruzdavid)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icruzdavid/)
@@ -38,6 +54,3 @@
     <img align="center" alt="UI/UX" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/><br/>
     <img align="center" alt="PS6" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
 </div><br/>
-
-
-

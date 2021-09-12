@@ -17,6 +17,8 @@ ____I love science fiction, nature, technology and programming.
 _______________________________________________________________________
 Below, there are links to my social networks if you want to contact me
 </div>
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icruzdavid/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/icruzdavid)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icruzdavid/)
@@ -54,3 +56,6 @@ Below, there are links to my social networks if you want to contact me
     <img align="center" alt="UI/UX" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/><br/>
     <img align="center" alt="PS6" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
 </div><br/>
+
+
+

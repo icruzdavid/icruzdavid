@@ -15,7 +15,7 @@ _____I'm participating in training to become a full-stack developer at https://w
 
 ____I love science fiction, nature, technology and programming.
 _______________________________________________________________________
-Below, there are links to my social networks if you want to contact me
+Below, there are links to my social networks if you want to contact me, click with your mouse's scroll.
 </div>
 
 

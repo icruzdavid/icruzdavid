@@ -1,6 +1,6 @@
 ### Olá! Eu sou o David Cruz, tenho 23 anos!  |||  Hello, I'm David Cruz, I'm 23 years old.
 
-<div class="header">
+<div>
        <style>.paragrafo{color:khaki;
        }</style>
 <p class="paragrafo"><b>Sou Técnico em TI👨‍💻</b></p>

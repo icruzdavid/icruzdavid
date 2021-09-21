@@ -4,7 +4,7 @@
        <style>.paragrafo{color:khaki;
        }</style>
 <p class="paragrafo"><b>Sou Técnico em TI👨‍💻</b></p>
-       my website https://curriculo-davidcruz.blogspot.com/
+       my website https://davidcruz-devjr.blogspot.com/
 
 ____I am a technical professional in information technology.
 

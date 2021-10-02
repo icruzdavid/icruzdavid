@@ -1,21 +1,19 @@
 ### Olá! Eu sou o David Cruz, tenho 23 anos!  |||  Hello, I'm David Cruz, I'm 23 years old.
 
 <div>
-       <style>.paragrafo{color:khaki;
-       }</style>
+
+
 <p class="paragrafo"><b>Sou Técnico em TI👨‍💻</b></p>
        my website https://davidcruz-devjr.blogspot.com/
 
-____I am a technical professional in information technology.
+I am a technical professional in information technology.
 
-<p class="paragrafo"><b>Estou cursando um treinamento para me tornar um dev full stack na https://www.impacta.com.br.</b></p>
 
-_____I'm participating in training to become a full-stack developer at https://www.impacta.com.br/
 
 <p class="paragrafo"><b>Amo Ficção Cientifica e Tecnologia 😍 _ [Interestelar (36:15 até 37:20)</b></p>
 
-____I love science fiction, nature, technology and programming.
-_______________________________________________________________________
+I love science fiction, nature, technology and programming.
+
 Below, there are links to my social networks if you want to contact me, click with your mouse's scroll.
 </div>
 

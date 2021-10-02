@@ -1,4 +1,4 @@
-### Olá! Eu sou o David Cruz, tenho 23 anos!  |||  Hello, I'm David Cruz, I'm 23 years old.
+### Olá! Eu sou o David Cruz, tenho 23 anos!.  Hello, I'm David Cruz, I'm 23 years old.
 
 <div>
 

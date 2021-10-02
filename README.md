@@ -10,7 +10,8 @@ I am a technical professional in information technology, and front end developer
 
 
 
-<p class="paragrafo"><b>Amo Ficção Cientifica e Tecnologia 😍 _ [Interestelar (36:15 até 37:20)</b></p>
+<p class="paragrafo"><b>Amo Ficção Cientifica e Tecnologia 😍 
+       Um trecho do filme Interestelar (36:15 até 37:20)</b></p>
 
 I love science fiction, nature, technology and programming.
 

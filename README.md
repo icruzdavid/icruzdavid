@@ -4,7 +4,7 @@
 
 
 <p class="paragrafo"><b>Sou Técnico em TI👨‍💻</b></p>
-       my website https://davidcruz-devjr.blogspot.com/
+       my website https://davidcruz-portfolio.blogspot.com/
 
 I am a technical professional in information technology.
 

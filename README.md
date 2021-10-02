@@ -3,10 +3,10 @@
 <div>
 
 
-<p class="paragrafo"><b>Sou Técnico em TI👨‍💻</b></p>
+<p class="paragrafo"><b>Sou Técnico em TI👨‍💻 e desenvolvedor front-end</b></p>
        my website https://davidcruz-portfolio.blogspot.com/
 
-I am a technical professional in information technology.
+I am a technical professional in information technology, and front end developer
 
 
 

@@ -4,7 +4,7 @@
 
 
 <p class="paragrafo"><b>Sou Técnico em TI👨‍💻 e desenvolvedor front-end</b></p>
-       my website https://davidcruz-portfolio.blogspot.com/
+       my website https://icruzdavid-03.blogspot.com/
 
 I am a technical professional in information technology, and front end developer
 

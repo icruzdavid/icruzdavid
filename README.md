@@ -10,10 +10,6 @@ I am a technical professional in information technology, and front end developer
 
 
 
-<p class="paragrafo"><b>Amo Ficção Cientifica e Tecnologia 😍 
-       Um trecho do filme Interestelar (36:15 até 37:20)</b></p>
-
-I love science fiction, nature, technology and programming.
 
 Below, there are links to my social networks if you want to contact me, click with your mouse's scroll.
 </div>

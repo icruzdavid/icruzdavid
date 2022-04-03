@@ -3,7 +3,7 @@
 <div>
 
 
-<p class="paragrafo"><b>Sou Técnico em TI👨‍💻 e desenvolvedor front-end</b></p>
+<p class="paragrafo"><b>Estudo para ser Técnico em Informática e desenvolvedor fullstack</b></p>
        my website https://icruzdavid-03.blogspot.com/
 
 I am a technical professional in information technology, and front end developer

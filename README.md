@@ -3,10 +3,9 @@
 <div>
 
 
-<p class="paragrafo"><b>Estudo para ser Técnico em Informática e desenvolvedor fullstack</b></p>
-       my website https://icruzdavid-03.blogspot.com/
+<p class="paragrafo"><b>Apaixonado em Tecnologia, estudando para me tornar um bom desenvolvedor fullstack</b></p>
+      
 
-I am a technical professional in information technology, and front end developer
 
 
 

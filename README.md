@@ -4,7 +4,7 @@
 
 
 <p class="paragrafo"><b>Apaixonado em Tecnologia, estudando para me tornar um bom desenvolvedor fullstack</b></p>
-      
+<p class="paragrafo"><b>Technology lover, studying to become a good full stack developer</b></p>
 
 
 

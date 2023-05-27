@@ -11,9 +11,8 @@ Hello, I'm David Cruz, I'm 23 years old.
 
 
 
-
-
-Below, there are links to my social networks if you want to contact me, click with your mouse's scroll.
+## Abaixo estão os links das minhas redes sociais, caso queira entrar em contato, clique com o scroll do mouse.
+  Below, there are links to my social networks if you want to contact me, click with your mouse's scroll.
 </div>
 
 
@@ -27,6 +26,7 @@ Below, there are links to my social networks if you want to contact me, click wi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icruzdavid&theme=github_dark)](https://github.com/icruzdavid/github-readme-stats)
 
 ## Tecnologias que uso no dia-a-dia
+   Technologies I use on a daily basis
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,6 +36,7 @@ Below, there are links to my social networks if you want to contact me, click wi
 </div><br/>
 
 ## Tecnologias que estou estudando
+   Technologies I'm studying
 
 <div style="display: inline_block"<br/>
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>

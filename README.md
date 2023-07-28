@@ -6,14 +6,6 @@ Hello, I'm David Cruz, I'm 23 years old.
 
 <p class="paragrafo"><b>Apaixonado em Tecnologia, estudando para me tornar desenvolvedor fullstack</b></p>
 <p class="paragrafo"><b>Technology lover, studying to become full stack developer</b></p>
-    
-    https://icruzdavid.github.io/portfolio-/
-    https://icruzdavid.github.io/portfolio-conhecimentos/
-    https://icruzdavid.github.io/screenLogin/#
-    https://icruzdavid.github.io/siteDepositoConstrucao/
-    https://icruzdavid.github.io/portfolio-conhecimentos/page2/page1.html
-    https://icruzdavid.github.io/portfolio-conhecimentos/github/github.html
-
 
 ## Abaixo estão os links das minhas redes sociais, caso queira entrar em contato, clique com o scroll do mouse.
   Below, there are links to my social networks if you want to contact me, click with your mouse's scroll.

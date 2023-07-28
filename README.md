@@ -2,10 +2,10 @@
 Hello, I'm David Cruz, I'm 23 years old.
 
 <div>
-
-
 <p class="paragrafo"><b>Apaixonado em Tecnologia, estudando para me tornar desenvolvedor fullstack</b></p>
 <p class="paragrafo"><b>Technology lover, studying to become full stack developer</b></p>
+
+https://icruzdavid.github.io/profile-page/
 
 ## Abaixo estão os links das minhas redes sociais, caso queira entrar em contato, clique com o scroll do mouse.
   Below, there are links to my social networks if you want to contact me, click with your mouse's scroll.
